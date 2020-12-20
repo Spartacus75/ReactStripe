@@ -2,8 +2,8 @@
   "music":[
     {
       "id":1,
-      "name": "Album 1",
-      "price": 1299,
+      "name": "Album X",
+      "price": 1299999,
       "imgName": "Album 1.png"
     },
     {
@@ -23,12 +23,12 @@
       "name": "Album 4",
       "price": 9999,
       "imgName": "Album 4.png"
-    },
+    }
 ],
   "merch": [
     {
       "id":5,
-      "name": "T-Shirt",
+      "name": "T-Shirt Vert",
       "price": 1999,
       "imgName": "Shirt.png"
     },
@@ -37,6 +37,6 @@
       "name": "Coffee Cup",
       "price": 699,
       "imgName": "Cofee.png"
-    },
+    }
   ]
 }
